@@ -27,7 +27,7 @@ export default function Home() {
         <div className="bg-gradient-to-b h-[50%] md:h-full md:w-2/4 xl:w-2/4 from-indigo-500 to-indigo-800 text-white rounded-3xl text-center items-center flex flex-col">
           <p className="text-sm md:text-base md:my-7 xl:text-xl opacity-70 my-10">
             Your Result
-          </p>
+          </p> 
 
           <div className="w-[40%] h-[38%] md:w-[60%] xl:w-2/3 bg-gradient-to-b from-[#281979] flex flex-col rounded-full justify-center items-center">
             <p className="text-5xl md:text-7xl">76</p>
